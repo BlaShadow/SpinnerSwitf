@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1D1BD012-F566-4A4A-A18F-D60222766951</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BEF4237ED2399841D68477EDF6F92A4478E75E58</key>
+		<string>git.blageek.net:blashadow/TestIOS8.git</string>
+		<key>CB7294E026739A8CA6147D2E72E880972E911E7D</key>
+		<string>git.blageek.net:ios-test-projects/Spinner-Loader.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestSpinner.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BEF4237ED2399841D68477EDF6F92A4478E75E58</key>
+		<string>../../..</string>
+		<key>CB7294E026739A8CA6147D2E72E880972E911E7D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>git.blageek.net:ios-test-projects/Spinner-Loader.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CB7294E026739A8CA6147D2E72E880972E911E7D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BEF4237ED2399841D68477EDF6F92A4478E75E58</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CB7294E026739A8CA6147D2E72E880972E911E7D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestSpinner</string>
+		</dict>
+	</array>
+</dict>
+</plist>
